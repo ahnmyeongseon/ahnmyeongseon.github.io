@@ -2,10 +2,10 @@
 layout: default
 ---
 <ul class="posts-list">
-  
+ <div class="catalogue">  
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
-    <div class="catalogue">
+
       {% for post in paginator.posts %}
         <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
           <div>
@@ -31,7 +31,7 @@ layout: default
       {% endif %}
 
       <span>{{ paginator.page }}</span>
-    </div>
+
   {% endfor %}
-  
+    </div>  
 </ul>
