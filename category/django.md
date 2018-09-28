@@ -4,6 +4,6 @@ layout: category
 
 title: test
 
-permalink: 'category/test'
+permalink: 'category/django'
 
 ---

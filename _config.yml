@@ -6,9 +6,9 @@ url:            "https://ahnmyeongseon.github.io"
 
 # Author
 author:
-  name:         Chester How
+  name:         myeongseon
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        ahnmyungsun95@gmail.com
 
 # Build settings
 markdown:       kramdown

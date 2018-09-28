@@ -4,6 +4,6 @@ layout: category
 
 title: cloud
 
-permalink: 'category/cloud'
+permalink: 'category/classnote'
 
 ---
